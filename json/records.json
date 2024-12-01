@@ -1,0 +1,218 @@
+[
+  {
+    "studentId": "200709051",
+    "courseId": "LAW101",
+    "midtermGrade": 85,
+    "finalGrade": 20
+  },
+  {
+    "studentId": "200709052",
+    "courseId": "LAW101",
+    "midtermGrade": 85,
+    "finalGrade": 20
+  },
+  {
+    "studentId": "200709053",
+    "courseId": "LAW101",
+    "midtermGrade": 100,
+    "finalGrade": 100
+  },
+  {
+    "studentId": "200709051",
+    "courseId": "LAW102",
+    "midtermGrade": 78,
+    "finalGrade": 88
+  },
+  {
+    "studentId": "200709052",
+    "courseId": "LAW201",
+    "midtermGrade": 92,
+    "finalGrade": 95
+  },
+  {
+    "studentId": "200709052",
+    "courseId": "LAW202",
+    "midtermGrade": 84,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709053",
+    "courseId": "LAW301",
+    "midtermGrade": 75,
+    "finalGrade": 80
+  },
+  {
+    "studentId": "200709053",
+    "courseId": "LAW302",
+    "midtermGrade": 26,
+    "finalGrade": 90
+  },
+  {
+    "studentId": "200709051",
+    "courseId": "LAW401",
+    "midtermGrade": 70,
+    "finalGrade": 92
+  },
+  {
+    "studentId": "200709053",
+    "courseId": "LAW402",
+    "midtermGrade": 40,
+    "finalGrade": 40
+  },
+  {
+    "studentId": "200709054",
+    "courseId": "LAW101",
+    "midtermGrade": 10,
+    "finalGrade": 10
+  },
+  {
+    "studentId": "200709054",
+    "courseId": "LAW102",
+    "midtermGrade": 80,
+    "finalGrade": 85
+  },
+  {
+    "studentId": "200709055",
+    "courseId": "LAW201",
+    "midtermGrade": 50,
+    "finalGrade": 20
+  },
+  {
+    "studentId": "200709055",
+    "courseId": "LAW202",
+    "midtermGrade": 86,
+    "finalGrade": 90
+  },
+  {
+    "studentId": "200709056",
+    "courseId": "LAW301",
+    "midtermGrade": 30,
+    "finalGrade": 2
+  },
+  {
+    "studentId": "200709056",
+    "courseId": "LAW302",
+    "midtermGrade": 85,
+    "finalGrade": 88
+  },
+  {
+    "studentId": "200709057",
+    "courseId": "LAW401",
+    "midtermGrade": 80,
+    "finalGrade": 84
+  },
+  {
+    "studentId": "200709057",
+    "courseId": "LAW402",
+    "midtermGrade": 77,
+    "finalGrade": 81
+  },
+  {
+    "studentId": "200709058",
+    "courseId": "LAW101",
+    "midtermGrade": 92,
+    "finalGrade": 96
+  },
+  {
+    "studentId": "200709058",
+    "courseId": "LAW102",
+    "midtermGrade": 83,
+    "finalGrade": 87
+  },
+  {
+    "studentId": "200709059",
+    "courseId": "LAW101",
+    "midtermGrade": 87,
+    "finalGrade": 90
+  },
+  {
+    "studentId": "200709059",
+    "courseId": "LAW102",
+    "midtermGrade": 81,
+    "finalGrade": 85
+  },
+  {
+    "studentId": "200709060",
+    "courseId": "LAW201",
+    "midtermGrade": 91,
+    "finalGrade": 94
+  },
+  {
+    "studentId": "200709060",
+    "courseId": "LAW202",
+    "midtermGrade": 79,
+    "finalGrade": 83
+  },
+  {
+    "studentId": "200709061",
+    "courseId": "LAW301",
+    "midtermGrade": 90,
+    "finalGrade": 93
+  },
+  {
+    "studentId": "200709061",
+    "courseId": "LAW302",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709062",
+    "courseId": "LAW401",
+    "midtermGrade": 75,
+    "finalGrade": 78
+  },
+  {
+    "studentId": "200709062",
+    "courseId": "LAW402",
+    "midtermGrade": 80,
+    "finalGrade": 84
+  },
+  {
+    "studentId": "200709066",
+    "courseId": "LAW302",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709067",
+    "courseId": "LAW301",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709068",
+    "courseId": "LAW101",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709069",
+    "courseId": "LAW302",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709070",
+    "courseId": "LAW302",
+    "midtermGrade": 85,
+    "finalGrade": 89
+  },
+  {
+    "studentId": "200709064",
+    "courseId": "LAW302",
+    "midtermGrade": 10,
+    "finalGrade": 20
+  },
+  {
+    "studentId": "200709065",
+    "courseId": "LAW302",
+    "midtermGrade": 70,
+    "finalGrade": 80
+  },
+  {
+    "studentId": "200709063",
+    "courseId": "LAW401",
+    "midtermGrade": 50,
+    "finalGrade": 50
+  }
+]

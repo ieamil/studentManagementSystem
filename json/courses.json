@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LAW101",
+    "name": "Introduction to Law",
+    "lecturer": "Prof. John Smith",
+    "midtermPercent": 40,
+    "acts": 6,
+    "gradingScale": {
+      "AA": 90,
+      "BA": 85,
+      "BB": 80,
+      "CB": 75,
+      "CC": 70,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW102",
+    "name": "Constitutional Law",
+    "lecturer": "Dr. Sarah Johnson",
+    "midtermPercent": 40,
+    "acts": 5,
+    "gradingScale": {
+      "AA": 92,
+      "BA": 87,
+      "BB": 82,
+      "CB": 77,
+      "CC": 72,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW201",
+    "name": "Criminal Law",
+    "lecturer": "Prof. Emily Carter",
+    "midtermPercent": 40,
+    "acts": 7,
+    "gradingScale": {
+      "AA": 93,
+      "BA": 88,
+      "BB": 83,
+      "CB": 78,
+      "CC": 73,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW202",
+    "name": "Civil Procedure",
+    "lecturer": "Dr. William Brown",
+    "midtermPercent": 40,
+    "acts": 6,
+    "gradingScale": {
+      "AA": 90,
+      "BA": 85,
+      "BB": 80,
+      "CB": 75,
+      "CC": 70,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW301",
+    "name": "Contract Law",
+    "lecturer": "Prof. Michael Davis",
+    "midtermPercent": 40,
+    "acts": 6,
+    "gradingScale": {
+      "AA": 88,
+      "BA": 83,
+      "BB": 78,
+      "CB": 73,
+      "CC": 68,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW302",
+    "name": "Torts",
+    "lecturer": "Dr. Elizabeth Martinez",
+    "midtermPercent": 40,
+    "acts": 5,
+    "gradingScale": {
+      "AA": 95,
+      "BA": 90,
+      "BB": 85,
+      "CB": 80,
+      "CC": 75,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW401",
+    "name": "International Law",
+    "lecturer": "Prof. Matthew Wilson",
+    "midtermPercent": 40,
+    "acts": 7,
+    "gradingScale": {
+      "AA": 92,
+      "BA": 87,
+      "BB": 82,
+      "CB": 77,
+      "CC": 72,
+      "FF": 0
+    }
+  },
+  {
+    "id": "LAW402",
+    "name": "Property Law",
+    "lecturer": "Dr. Sophia Anderson",
+    "midtermPercent": 40,
+    "acts": 6,
+    "gradingScale": {
+      "AA": 90,
+      "BA": 85,
+      "BB": 80,
+      "CB": 75,
+      "CC": 70,
+      "FF": 0
+    }
+  }
+]

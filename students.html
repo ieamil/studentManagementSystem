@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Students Management</title>
+  <link rel="stylesheet" href="students.css">
+  <link rel="stylesheet" href="common.css">
+  <link rel="icon" href="images/harvardLogo.png" type="harvardLogo">
+</head>
+<body>
+
+  <div class="student-management">
+    <div class="forms">
+      <!-- Add Student -->
+      <div class="form-section">
+        <h3>Add Student</h3>
+        <form id="add-student-form">
+          <input type="text" id="student-id" placeholder="Student ID" required>
+          <input type="text" id="student-name" placeholder="Student Name" required>
+          <input type="text" id="student-surname" placeholder="Student Surname" required>
+          <button type="submit">Add</button>
+        </form>
+      </div>
+  
+      <!-- Update Student -->
+      <div class="form-section">
+        <h3>Update Student</h3>
+        <form id="update-student-form">
+          <input type="text" id="update-student-id" placeholder="Student ID" required>
+          <input type="text" id="update-student-name" placeholder="Student Name">
+          <input type="text" id="update-student-surname" placeholder="Student Surname">
+          <button type="submit">Update</button>
+        </form>
+      </div>
+  
+      <!-- Delete Student -->
+      <div class="form-section">
+        <h3>Delete Student</h3>
+        <form id="delete-student-form">
+          <input type="text" id="delete-student-id" placeholder="Student ID" required>
+          <button type="submit">Delete</button>
+        </form>
+      </div>
+    </div>
+  
+    <!-- Student Table -->
+    <div class="table-section">
+      <h3>All Students</h3>
+      <input
+        type="text"
+        id="search-bar"
+        placeholder="Search by Name or ID"
+        oninput="searchStudents()"
+      />
+      <table id="student-table">
+        <thead>
+          <tr>
+            <th>Student ID</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>GPA</th>
+            <th>Total ACTS</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Dynamic content -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Modal for Student Details -->
+  <div id="student-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-modal" onclick="closeStudentModal()">&times;</span>
+      <h3 id="modal-student-name">Student Details</h3>
+      <p><strong>ID:</strong> <span id="modal-student-id"></span></p>
+      <p><strong>GPA:</strong> <span id="modal-student-gpa"></span></p>
+      <p><strong>Total ACTS:</strong> <span id="modal-student-acts"></span></p>
+      <div class="modal-photo">
+        <img id="student-photo" src="images/default_pp.jpg" alt="Profile Photo">
+      </div>
+      <h4>Courses & Grades:</h4>
+      <table id="student-courses-table">
+        <thead>
+          <tr>
+            <th>Course Name</th>
+            <th>Midterm Grade</th>
+            <th>Final Grade</th>
+            <th>Letter Grade</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Students infos will be here with js -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+  
+  <footer>
+    <div class="footer-bottom">
+      <p>Copyright © President & Fellows of Harvard College </p>
+    </div>
+  </footer>
+  <script src="home.js"></script>
+  <script src="students.js"></script>
+</body>
+</html>
